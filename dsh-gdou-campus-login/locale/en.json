@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "GDou Campus Net Login",
+    "description": "Adds a Campus Net panel inside the app: live connection status, a drop-connection auto-login switch, and manual login/logout (srun portal), plus a campus_net tool for the agent."
+  }
+}

@@ -1,0 +1,3 @@
+- insert:
+    - id: gdou-campus-login
+      name: '@local/gdou-campus-login'
